@@ -44,8 +44,23 @@ router.get('/post/:id', async (req, res) => {
       ],
     });
 
+    const commentData = await Comment.findOne({ where: { post_id: req.params.id }
+      // include: [
+      //   {
+      //     model: User,
+      //     attributes: ['name'],
+      //   },
+      //   {
+      //     model: Comment,
+      //     attributes: ['body', 'date_created', 'user_id'],
+      //   },
+      // ],
+    });
+
     console.log(postData);
-    const post = postData.get({ plain: true });
+    console.log(commentData);
+    let post = postData.get({ plain: true });
+    post.comments = commentData;
 
     res.render('post', {
       ...post,
