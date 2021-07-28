@@ -20,8 +20,9 @@ This table of contents is to make it easy for users to find what they need.
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
 [Homework 14 - Tech Blog GitHub Repo](https://github.com/britt-bot/14-Tech_Blog)
-[Homework 14 - Tech Blog Heroku Deploy]()
 
+<!-- [Homework 14 - Tech Blog Heroku Deploy]()
+ -->
 ## Usage 
 
 This application is a general blog and it is designed to be used like all base blogs. 
