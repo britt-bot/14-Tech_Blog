@@ -1,3 +1,4 @@
+![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # 14-Tech_Blog
 
 ## Description 
@@ -21,8 +22,6 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 [Homework 14 - Tech Blog GitHub Repo](https://github.com/britt-bot/14-Tech_Blog)
 
-<!-- [Homework 14 - Tech Blog Heroku Deploy]()
- -->
 ## Usage 
 
 This application is a general blog and it is designed to be used like all base blogs. 
