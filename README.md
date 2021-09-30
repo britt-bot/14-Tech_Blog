@@ -1,5 +1,5 @@
 ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-# 14-Tech_Blog
+# Tech_Blog
 
 ## Description 
 
@@ -24,7 +24,7 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 ## Usage 
 
-This application is a general blog and it is designed to be used like all base blogs. 
+This application is a general blog and it is designed to be used like other base blogs. 
 
 
 ## Credits
