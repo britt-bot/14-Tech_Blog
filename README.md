@@ -20,7 +20,9 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Tech Blog Repo](https://github.com/britt-bot/14-Tech_Blog)
+[Tech Blog Repo](https://github.com/britt-bot/Tech_Blog)
+
+[Tech Blog Deploy](https://britt-bot.github.io/Tech_Blog/)
 
 ## Usage 
 
