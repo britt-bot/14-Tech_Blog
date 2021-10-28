@@ -28,6 +28,8 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 This application is a general blog and it is designed to be used like other base blogs. 
 
+![techblog](https://user-images.githubusercontent.com/77466708/139323374-6ce6b610-8f62-41ad-9f16-07a8e7132f79.png)
+
 
 ## Credits
 
